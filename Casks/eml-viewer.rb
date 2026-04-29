@@ -1,6 +1,6 @@
 cask "eml-viewer" do
-  version "0.0.0-alpha.3"
-  sha256  "7278c1335e3606cc27482173d8cba606abacbf18c0342f3403ba4d580871cd6a"
+  version "0.0.0-alpha.4"
+  sha256  "21119ad5d008afb19229334bc6879b06559c5bd6736708f178a0644dcc0484f8"
 
   url "https://github.com/longstone/eml-viewer-macos/releases/download/v#{version}/eml-viewer-#{version}.zip"
   name "EML Viewer"
